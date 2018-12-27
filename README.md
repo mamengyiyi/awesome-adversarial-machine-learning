@@ -36,6 +36,7 @@ A curated list of awesome adversarial machine learning resources, inspired by [a
 * [Adversarial attacks on neural network policies](https://arxiv.org/abs/1702.02284), S. Huang et al, ICLR workshop 2017
 * [Tactics of Adversarial Attacks on Deep Reinforcement Learning Agents](https://arxiv.org/abs/1703.06748), Y. Lin et al, IJCAI 2017
 * [Delving into adversarial attacks on deep policies](https://arxiv.org/abs/1705.06452), J. Kos et al., ICLR workshop 2017
+* [Robust Deep Reinforcement Learning with Adversarial Attacks](https://arxiv.org/pdf/1712.03632.pdf),A. Pattanaik et al.,AAMAS 2018
 
 **Segmentation & Object Detection**
 
